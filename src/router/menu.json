@@ -1,0 +1,44 @@
+[
+  {
+    "ja":"ホーム",
+    "en":"Home",
+    "path":"/",
+    "icon":"home"
+  },
+  {
+    "ja":"コンテンツ",
+    "en":"Contents",
+    "path":"/contents",
+    "icon":"bell"
+  },
+  {
+    "ja":"スタイルマネージ",
+    "en":"Style Manege",
+    "path":"/style-manage",
+    "icon":"bullseye"
+  },
+  {
+    "ja":"ルートマネージ",
+    "en":"Route Manage",
+    "path":"/router-manage",
+    "icon":"cogs"
+  },
+  {
+    "ja":"ログイン",
+    "en":"Login",
+    "path":"/login",
+    "icon":"user"
+  },
+  {
+    "ja":"利用規約",
+    "en":"Terms",
+    "path":"/terms",
+    "icon":""
+  },
+  {
+    "ja":"プライバシー・ポリシー",
+    "en":"Privacy",
+    "path":"/privacy",
+    "icon":""
+  }
+]

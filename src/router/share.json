@@ -1,0 +1,5 @@
+[
+  {"name":"Twitter","icon":"brands/twitter","url":"http://twitter.com/share?url="},
+  {"name":"LINE","icon":"brands/line","url":"http://line.me/R/msg/text/?"},
+  {"name":"Facebook","icon":"brands/facebook","url":"https://www.facebook.com/sharer/sharer.php?u="}
+]

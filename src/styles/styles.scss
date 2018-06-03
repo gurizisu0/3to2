@@ -1,0 +1,42 @@
+// グローバルスタイルを適用するためのスタイルファイルです。
+$white: #fff;
+$gray: #f3f3f3;
+$black: #000;
+
+$firstColor: rgba(0, 255, 132, 1);
+$secondColor: rgba(198, 198, 198, 1);
+$thirdColor: #E45641;
+$fourthColor: #E45641;
+$fifthColor: #E45641;
+
+//初期値
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+// fontsの設定
+@mixin font {
+  font-family: 'JKG-L_3', 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'JKG-L_3';
+  src: url('~@/styles/fonts/JKG-L_3.ttf');
+  // src: url('~@/styles/fonts/JKG-L_3.ttf?-u69vo5') format('truetype');
+  // font-style: normal;
+  // font-weight: 400;
+  // text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'nicokaku_v1';
+  src: url('~@/styles/fonts/nicokaku_v1.ttf');
+  font-display: swap;
+}
